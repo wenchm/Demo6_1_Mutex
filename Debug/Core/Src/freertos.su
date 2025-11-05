@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:95:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:153:6:AppTask_High	88	static
+../Core/Src/freertos.c:185:6:AppTask_Middle	64	static
+../Core/Src/freertos.c:210:6:AppTask_Low	72	static
